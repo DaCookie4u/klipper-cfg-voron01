@@ -3,3 +3,4 @@ printer-*.cfg
 mainsail.cfg
 timelapse.cfg
 crowsnest.conf
+sonar.conf
