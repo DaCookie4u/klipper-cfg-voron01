@@ -1,2 +1,5 @@
 printer-*.cfg
 *.bkp
+mainsail.cfg
+timelapse.cfg
+crowsnest.conf
